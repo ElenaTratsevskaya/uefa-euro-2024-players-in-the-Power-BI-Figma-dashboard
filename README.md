@@ -1,6 +1,9 @@
 # uefa-euro-2024-players-in-the-Power-BI-Figma-dashboard
 The dashboard will collect information on all players who are part of the teams participating in UEFA EURO 2024
 </br></br>
+<div id="header" align="center">
+<img src="https://maps-for-excel.com/wp-content/uploads/2017/03/power-bi-animated-800x250.gif" title="powerBI" width="145" height="40"/>&nbsp;
+</div></br></br>
 Дашборд составлен по данным с портала [kaggle](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players)<br>  </br>
 Автор ДАМИР ДИЗДАРЕВИЧ</br>
 Фото с сайта tornboo.ru</br>
