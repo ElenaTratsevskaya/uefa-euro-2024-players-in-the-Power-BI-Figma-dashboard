@@ -5,7 +5,8 @@ The dashboard will collect information on all players who are part of the teams 
 <img src="https://maps-for-excel.com/wp-content/uploads/2017/03/power-bi-animated-800x250.gif" title="powerBI" width="145" height="40"/>&nbsp;
   <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="figma" width="40" height="40"/>&nbsp;
 </div></br></br>
-Дашборд составлен по данным с портала [kaggle](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players)<br>  </br>
+
+Дашборд составлен по данным с портала [kaggle](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players) <br>  </br>
 Автор ДАМИР ДИЗДАРЕВИЧ</br>
 Фото с сайта tornboo.ru</br>
 
